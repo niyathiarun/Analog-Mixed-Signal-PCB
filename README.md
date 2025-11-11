@@ -155,5 +155,3 @@ This mixed-signal PCB design has a wide range of **educational and industrial ap
 [🔗 LinkedIn](www.linkedin.com/in/niyathiarun) 
 
 ---
-## 📂 Repository Structure  
-
